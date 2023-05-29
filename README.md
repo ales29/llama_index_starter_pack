@@ -11,7 +11,7 @@ The basic demo includes the classic "Paul Graham Essay" from the original llama_
 
 
 ## Local Setup
-```
+``` 
 conda create --name llama_index python=3.11
 pip install -r requirements.txt
 ```
