@@ -10,7 +10,7 @@ The basic demo includes the classic "Paul Graham Essay" from the original llama_
 - Tell me more about interleaf
 
 
-## Local Setup
+## Local Setup (test)
 ``` 
 conda create --name llama_index python=3.11
 pip install -r requirements.txt
